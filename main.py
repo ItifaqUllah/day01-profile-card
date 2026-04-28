@@ -1,0 +1,17 @@
+#Personal Info Card
+name    = input("Enter your name: ")
+age     = input("Enter your age: ")
+city    = input("Enter your city: ")
+major   = input("Enter your major/job: ")
+hobby   = input("Enter your hobby: ")
+
+print()
+print("=============================")
+print("        PROFILE CARD         ")
+print("=============================")
+print(f"Name   : {name}")
+print(f"Age    : {age}")
+print(f"City   : {city}")
+print(f"Major  : {major}")
+print(f"Hobby  : {hobby}")
+print("=============================")
